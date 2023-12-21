@@ -1,0 +1,6 @@
+{
+  "greetings": ["Hello.", "Hi.", "Howdy.", "Hey."],
+  "introductions": ["My name is $name.", "I am $name.", "My name is $name, and you can call me $name."],
+  "farewells": ["Bye.", "See ya!", "Later.", "Good bye."],
+  "inquiries" : ["What do you know?", "Do you have any clues?", "I'm looking for information."]
+}

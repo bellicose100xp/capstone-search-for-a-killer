@@ -1,0 +1,13 @@
+{
+  "Audio Options": [
+    "Music ON",
+    "Music OFF",
+    "Music UP",
+    "Music DOWN",
+    "Sound Effects ON",
+    "Sound Effects OFF",
+    "Sound Effects UP",
+    "Sound Effects DOWN",
+    "Exit audio menu"
+  ]
+}

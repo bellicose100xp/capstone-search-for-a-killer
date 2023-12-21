@@ -1,0 +1,21 @@
+{
+  "nonMurderer": [
+    "Hopefully we find whoever did it!",
+    "I wasn't even here when it happened.",
+    "I feel so bad for him, it's not his fault!",
+    "Who on earth could even think of doing such a thing?",
+    "Looks like someone finally got to him... What, I know it's grim, but most of the workers didn't like him!",
+    "It's hard to believe one of our own could be capable of murder.",
+    "He had a secret life, I'm sure of it. There's something they weren't telling us.",
+    "I heard footsteps in the hallway last night, but when I checked, no one was there. It's like they vanished into thin air.",
+    "His pet is acting strange, as if it witnessed something it can't forget. Animals sense these things, you know.",
+    "I'm not one to accuse another, I can't imagine anyone here did this."
+  ],
+  "murderer": [
+    "I-I swear to you, I didn't do it!",
+    "It could've been someone else! Why are you accusing me?",
+    "I don't talk to cops.",
+    "I don't need to explain myself to you.",
+    "It's convenient, isn't it? The person with the most motive is the one you're interrogating."
+  ]
+}

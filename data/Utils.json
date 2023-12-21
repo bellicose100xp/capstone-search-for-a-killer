@@ -1,0 +1,10 @@
+{
+  "itemAcquiredMessage": "You acquired ",
+  "itemDroppedMessage": "You dropped ",
+  "itemCannotAcquire": " cannot be picked up!",
+  "itemCannotDrop": " cannot be dropped!",
+  "scoreStart": "1000",
+  "scorePickupDrop": "-5",
+  "scoreTalk": "-10",
+  "scoreMove": "-20"
+}

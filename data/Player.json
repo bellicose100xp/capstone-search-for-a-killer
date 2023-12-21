@@ -1,0 +1,8 @@
+{
+  "name": "Detective Smalls",
+  "description": "Sr. Detective assigned with solving a murder",
+  "currentLocation": "Backyard",
+  "clue": "Time to look for clues",
+  "jsonInventory": ["Lucky Pen", "Crime Report"],
+  "playerHistory": ["Backyard"]
+}

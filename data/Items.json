@@ -1,0 +1,202 @@
+[
+  {
+    "name":"Dog house",
+    "description":"The dog house is painted a classic red, with a wooden slab above the door bearing the name \"Pupperoni\".",
+    "pickUpable": false,
+    "iconPath": "data/icons/items/dog-house.png"
+  },
+  {
+    "name":"Fire pit",
+    "description":"The fire pit must have been recently used - there is a still a pile of ashes in the center.",
+    "pickUpable": false,
+    "iconPath": "data/icons/items/fire-pit.png"
+  },
+  {
+    "name":"Garden",
+    "description":"The garden has flowers in every color imaginable, and almost as many butterflies fluttering around them.",
+    "pickUpable": false,
+    "iconPath": "data/icons/items/garden.png"
+  },
+  {
+    "name":"Stove",
+    "description":"The stove is spotless - either the person who cleaned it was very thorough, or else there is very little cooking that happens here.",
+    "pickUpable": false,
+    "iconPath": "data/icons/items/stove.png"
+  },
+  {
+    "name":"Table",
+    "description":"The circular table seats four people. The only thing on it is the white tablecloth.",
+    "pickUpable": false,
+    "iconPath": "data/icons/items/table.png"
+  },
+  {
+    "name":"Dishwasher",
+    "description":"The dishwasher is still, but when you open it the inside is hot. A cycle must have just finished. There are a few dishes inside.",
+    "pickUpable": false,
+    "iconPath": "data/icons/items/dishwasher.png"
+  },
+  {
+    "name":"Trashcan",
+    "description":"The trashcan is stuffed with junk food wrappers. A man after your own heart.",
+    "pickUpable": false,
+    "iconPath": "data/icons/items/trashcan.png"
+  },
+  {
+    "name":"Couch",
+    "description":"The brown leather couch is massive. You stick your hands between the cushions, but you find nothing but crumbs.",
+    "pickUpable": false,
+    "iconPath": "data/icons/items/couch.png"
+  },
+  {
+    "name":"TV",
+    "description":"The television is a 98” Class Samsung Neo QLED 8K QN990C. Mr. Cool must have enjoyed his entertainment. Or he had vision problems. Or both.",
+    "pickUpable": false,
+    "iconPath": "data/icons/items/tv.png"
+  },
+  {
+    "name":"Christmas Tree",
+    "description":"The Christmas Tree is fake, but you spot a few pine-scented air fresheners hidden amongst the ornaments.",
+    "pickUpable": false,
+    "iconPath": "data/icons/items/christmas-tree.png"
+  },
+  {
+    "name":"Rug",
+    "description":"Upon closer look, you realize that what you thought was a carpet is actual just a darker spot where the floor wasn't impacted by sunlight - the actual rug is missing, leaving behind a stark outline where it likely laid for years.",
+    "pickUpable": false,
+    "iconPath": "data/icons/items/rug.png"
+  },
+  {
+    "name":"Desk",
+    "description":"The desk is beige metal, the kind that your parents likely used in the 1970s. This is not where Mr. Cool invested his money - or his time. \nA pencil holder was knocked over and pens are strewn across the desk.",
+    "pickUpable": false,
+    "iconPath": "data/icons/items/desk.png"
+  },
+  {
+    "name":"Computer",
+    "description":"The computer looks like it's still hanging on, but the white plastic frame is yellowing and some of the letters have been worn off of the keys on the keyboard.",
+    "pickUpable": false,
+    "iconPath": "data/icons/items/computer.png"
+  },
+  {
+    "name":"Printer",
+    "description":"There is newer printer sitting next to the computer on the desk. You doubt it works through - there is a large - fist sized dent on top.",
+    "pickUpable": false,
+    "iconPath": "data/icons/items/printer.png"
+  },
+  {
+    "name":"Bookcase",
+    "description":"The books on the bookshelf are mainly either history texts, manuals, or phonebooks. Strange guy.",
+    "pickUpable": false,
+    "iconPath": "data/icons/items/bookcase.png"
+  },
+  {
+    "name":"Billiards table",
+    "description":"This billiards table must have been well-loved - but not by anyone good at billiards. The felt lining is all scuffed up.",
+    "pickUpable": false,
+    "iconPath": "data/icons/items/pool-table.png"
+  },
+  {
+    "name":"Dart board",
+    "description":"There is a dart board, but no darts to be seen. You wonder if all the tiny holes on the wall around the boards has anything to do with that.",
+    "pickUpable": false,
+    "iconPath": "data/icons/items/dart-board.png"
+  },
+  {
+    "name":"Arcade machines",
+    "description":"Three arcade machines stand side-by-side: Pac-Man, Street Fighter, and Donkey Kong. You look at the high score for each of them, and the counters are all maxed out. Could it be that Mr. Cool was the best arcadist of all time?",
+    "pickUpable": false,
+    "iconPath": "data/icons/items/arcade-machine.png"
+  },
+  {
+    "name": "Egg",
+    "description": "A fresh egg, maybe there are chickens nearby...",
+    "pickUpable": true,
+    "iconPath": "data/icons/items/egg.png"
+  },
+  {
+    "name":"Lucky Pen",
+    "description":"Your lucky pen your dad gave to you when you were seven!",
+    "pickUpable": false,
+    "iconPath": "data/icons/items/lucky-pen.png"
+  },
+  {
+    "name":"Pen",
+    "description":"A blue pen, a pen is a type of thing!",
+    "badDescription": "A blue pen with red stains... Why would there be red stains on a blue pen?",
+    "pickUpable": true,
+    "isWeapon": true,
+    "iconPath": "data/icons/items/pen.png"
+  },
+  {
+    "name":"Shovel",
+    "description":"An old rusty shovel. It doesn't look like it's been used in years.",
+    "badDescription": "An old rusty shovel. The blade seems oddly shiny for its age.",
+    "pickUpable": true,
+    "isWeapon": true,
+    "iconPath": "data/icons/items/shovel.png"
+  },
+  {
+    "name":"Rope",
+    "description":"A rope that stretches 20 feet in length. It's discolored and old.",
+    "badDescription": "A rope that stretches 20 feet in length. It's stained red directly at the 10 foot mark.",
+    "pickUpable": true,
+    "isWeapon": true,
+    "iconPath": "data/icons/items/rope.png"
+  },
+  {
+    "name":"Glove",
+    "description":"A once white glove, covered in dirt.",
+    "pickUpable": true,
+    "iconPath": "data/icons/items/gloves.png"
+  },
+  {
+    "name": "Receipt",
+    "description": "The receipt is for the purchase of heavy cleaning products. The transaction was made in cash.",
+    "pickUpable": true,
+    "iconPath": "data/icons/items/receipt.png"
+  },
+  {
+    "name": "Candy Wrapper",
+    "description": "A Rooso's Peanut Butter Tree, the best part of the season. The wrapper still smells like chocolate and peanut butter.",
+    "pickUpable": true,
+    "iconPath": "data/icons/items/candy-wrapper.png"
+  },
+  {
+    "name": "Note #1",
+    "description": "The note reads:\n\"It feels like I have been stuck at this job forever... I only hope one day I can go home. -Butler\"",
+    "pickUpable": true,
+    "iconPath": "data/icons/items/note.png"
+  },
+  {
+    "name": "Note #2",
+    "description": "The note reads:\n\"Another tiring day at the garden. The cold season can't come soon enough! -Gardener\"",
+    "pickUpable": true,
+    "iconPath": "data/icons/items/note.png"
+  },
+  {
+    "name": "Note #3",
+    "description": "The note reads:\n\"Mr. Cool seems to be in good health. I can imagine that man living another 20 years! -Nurse\"",
+    "pickUpable": true,
+    "iconPath": "data/icons/items/note.png"
+  },
+  {
+    "name": "Note #4",
+    "description": "It looks like this was a confession letter, but there is blood smeared on the paper and so you cannot make out any of the words.",
+    "pickUpable": true,
+    "iconPath": "data/icons/items/note.png"
+  },
+  {
+    "name": "Crime Report",
+    "description": "The report reads: \n\"The victim was murdered between 5:27pm when his wife left last night and 8:32am when she arrived back home. The security staff did not see anyone approach or leave the premises other than the late Mrs. Cool. The suspect must have been someone from the house.\"",
+    "pickUpable" : false,
+    "iconPath": "data/icons/items/note.png"
+  },
+  {
+    "name": "Knife",
+    "description": "A sharp knife used in the kitchen for various tasks.",
+    "badDescription": "A freshly sharpened knife that's extremely clean... Almost too clean.",
+    "pickUpable": true,
+    "isWeapon": true,
+    "iconPath": "data/icons/items/knife.png"
+  }
+]

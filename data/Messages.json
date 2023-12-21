@@ -1,0 +1,36 @@
+{
+  "general": {
+    "divider": "#################################################",
+    "quit": "quit"
+  },
+  "error": {
+    "invalidAction": "You can't do that.",
+    "invalidLook": "%s is not a valid item for you to look at.",
+    "invalidRoomTravers": "You can't get to the %s from here",
+    "invalidRoomName": "Invalid room name. There is no room with that name.",
+    "invalidDefaultThat": "That",
+    "invalidInventoryDropItem": "You can only drop \"Items\" that are in your inventory.",
+    "invalidTypeDropItem": "You can only drop \"Items\"",
+    "invalidCharacterPresence": "you can't speak to characters that are not in the same room as you.",
+    "invalidCharacterType": "You can only speak to \"Characters\"",
+    "invalidItemPickup": "Nice try, but no, you can't pickup %s.",
+    "invalidItemNotPresent": "That \"Item\" is not present in this room",
+    "invalidNotAnItem": "That is not an \"Item\""
+  },
+  "info": {
+    "personVisible": "You see someone you can speak to: ",
+    "visibleItems": "Items you see: ",
+    "traversableRooms": "Rooms you can go to: ",
+    "observeItem": "The %s contains: %s",
+    "availableCommands": "Available commands: ",
+    "dropItem": "You dropped the %s",
+    "itemPickup": "You added %s to your inventory.",
+    "playerLocation": "Player Location: %s",
+    "playerInventory": "Player Inventory: %s",
+    "connectedRooms": "Connected Rooms: %s"
+  },
+  "endgame": {
+    "win": "Congratulations! You have successfully identified the murderer and the murder weapon. You won the game!",
+    "lose": "Unfortunately, you were unable to solve the murder mystery this time. Feel free to give it another try!"
+  }
+}

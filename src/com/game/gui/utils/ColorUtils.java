@@ -1,0 +1,79 @@
+package com.game.gui.utils;
+
+import java.awt.*;
+
+public enum ColorUtils {
+    // Game Intro
+    INTRO_TEXT(241, 163, 94),
+    START_BUTTON_BACKGROUND(148, 44, 4),
+    START_BUTTON_TEXT(209, 139, 56),
+
+    // Game Frame and Toolbar
+    GAME_BACKGROUND(11, 31, 28),
+    GAME_TITLE_TEXT(255, 92, 93),
+    GAME_REPORT_BACKGROUND(2, 89, 81),
+    GAME_REPORT_TEXT(4, 191, 173),
+
+    // Player Section
+    PLAYER_SECTION_BACKGROUND(122, 87, 0),
+    PLAYER_SCROLLBAR(102, 67, 0),
+    PLAYER_HEADING_TEXT(235, 190, 84),
+    SCORE_BACKGROUND(255, 226, 153),
+    SCORE_TEXT(64, 20, 16),
+    EVIDENCE_ICON_BACKGROUND(255, 206, 90),
+
+    // Location Section
+    LOCATION_SECTION_BACKGROUND(34, 64, 47),
+    ITEM_ICON_BACKGROUND(64, 115, 100),
+    ITEM_SCROLLBAR(44, 95, 80),
+    CHARACTER_ICON_BACKGROUND(64, 115, 100),
+    ITEM_DESCRIPTION_BACKGROUND(64, 115, 100),
+    ITEM_TEXT(201, 240, 209),
+
+    // Map Section
+    MAP_DEFAULT_BACKGROUND(39, 75, 89),
+    GAME_MAP_TEXT(255, 255, 255),
+    GAME_MAP_TILE_BORDER(255, 255, 255),
+    CURRENT_LOCATION(0, 104, 55),
+    ADJACENT_LOCATION(235, 190, 84),
+    UNREACHABLE_LOCATION(232, 77, 47),
+
+    // Location Description Section
+    LOCATION_DESCRIPTION_BACKGROUND(39, 75, 89),
+    LOCATION_DESCRIPTION_TEXT(139, 187, 217),
+
+    // Help Panel
+    HELP_BACKGROUND(61, 38, 2),
+    HELP_TEXT(227, 192, 141),
+
+    // Report Killer Frame
+    REPORT_KILLER_BACKGROUND(108, 33, 0),
+    REPORT_KILLER_TEXT(242, 143, 107),
+    REPORT_KILLER_ICON_BACKGROUND(197, 64, 32),
+    CANCEL_BUTTON_BACKGROUND(108, 103, 88),
+    CANCEL_BUTTON_TEXT(224, 215, 192),
+    SOLVE_BUTTON_BACKGROUND(86, 140, 99),
+    SOLVE_BUTTON_TEXT(187, 209, 193),
+
+    // Result Screen Exit Button
+    GREEN_EXIT_BUTTON_BACKGROUND(0, 104, 55),
+    GREEN_EXIT_BUTTON_TEXT(255, 255, 255),
+    RED_EXIT_BUTTON_BACKGROUND(193, 39, 45),
+    RED_EXIT_BUTTON_TEXT(255, 255, 255),
+
+    // Result Screen Score Label
+    GREEN_SCORE_LABEL_BACKGROUND(0, 104, 55),
+    GREEN_SCORE_LABEL_TEXT(255, 255, 255),
+    RED_SCORE_LABEL_BACKGROUND(193, 39, 45),
+    RED_SCORE_LABEL_TEXT(255, 255, 255);
+
+    private final Color color;
+
+    ColorUtils(int red, int green, int blue) {
+        this.color = new Color(red, green, blue);
+    }
+
+    public Color color() {
+        return color;
+    }
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Backyard",
+    "description": "The backyard is well kept, with all manner of flora lining the property and various stone decorations sprinkled about. It looks like a comfortable place to sit in the sun with a cup of tea and a good book.",
+    "jsonInventory": ["Dog house","Fire pit","Garden"],
+    "jsonAdjacentRooms" : ["Kitchen"],
+    "jsonCharactersInRoom" : ["Gardener"],
+    "isVisited": true
+  },
+
+  {
+    "name": "Kitchen",
+    "description": "The kitchen is quaint. Every cabinet has intricately carved oak-wood features and there are doilies on every surface. The few stainless steel appliances clash with the rest of the interior.",
+    "jsonInventory": ["Stove","Table","Dishwasher","Trashcan"],
+    "jsonAdjacentRooms" : ["Backyard","Office"],
+    "jsonCharactersInRoom" : ["Nanny"]
+  },
+
+  {
+    "name": "Living Room",
+    "description": "The living room is richly decorated with awards, trophies, and what you find to be rather strange pieces of art. You would feel extremely posh relaxing in this room after a long day.",
+    "jsonInventory": ["Couch","TV","Christmas Tree", "Rug"],
+    "jsonAdjacentRooms" : ["Office","Game Room"]
+  },
+
+  {
+    "name": "Office",
+    "description": "The office is far more plain than the rest of the house. The interior would feel oppressively corporate if it weren't for the massive window letting in copious natural light. There is a white tarp on the floor cover the spot the body was found.",
+    "jsonInventory": ["Desk","Computer","Printer","Bookcase"],
+    "jsonAdjacentRooms" : ["Living Room", "Kitchen"],
+    "jsonCharactersInRoom" : ["Butler"]
+  },
+
+  {
+    "name": "Game Room",
+    "description": "The game room has the aura of a bar or a saloon. The room is lit by two hanging Tiffany lamps, the walls are dark wooden panelling, the carpet is a dark green. Everything you lay eyes on screams \"retro\".",
+    "jsonInventory": ["Billiards table","Dart board","Arcade machines"],
+    "jsonAdjacentRooms" : ["Living Room"]
+  }
+]

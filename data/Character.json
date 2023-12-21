@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Gardener",
+    "description": "A random gardener that works around the house for free. He looks like he is in a hurry.",
+    "currentLocation": "Backyard",
+    "jsonInventory": ["Glove"],
+    "clue": "I am the gardener.",
+    "isSuspect":  "true",
+    "iconPath": "data/icons/characters/gardener.png"
+  },
+    {
+    "name": "Nanny",
+    "description": "The live-in nanny that just submitted her two week notice a week ago. She looks distraught.",
+    "currentLocation": "Kitchen",
+    "jsonInventory": ["Pen"],
+    "clue": "I am the nanny.",
+    "isSuspect":  "true",
+      "iconPath": "data/icons/characters/nanny.png"
+  },
+  {
+    "name": "Butler",
+    "description": "The family butler that has been in the family for several years. He looks frazzled.",
+    "currentLocation": "Office",
+    "jsonInventory": ["Pen"],
+    "clue": "I am the butler.",
+    "isSuspect":  "true",
+    "iconPath": "data/icons/characters/butler.png"
+  },
+  {
+    "name": "Janitor",
+    "description": "A brand new janitor. He looks tired.",
+    "currentLocation": "Living Room",
+    "jsonInventory": [],
+    "clue": "I am the janitor.",
+    "isSuspect": "true",
+    "iconPath": "data/icons/characters/janitor.png"
+  },
+  {
+    "name": "Theodore",
+    "description": "The eldest son of Mr. Cool.",
+    "currentLocation": "Game Room",
+    "jsonInventory": [],
+    "clue": "I am the son of Mr. Cool.",
+    "isSuspect":  "true",
+    "iconPath": "data/icons/characters/son.png"
+  },
+  {
+    "name": "Mrs. Cool",
+    "description": "She is teary eyed, but seems to be remaining strong.",
+    "currentLocation": "Backyard",
+    "jsonInventory": [],
+    "clue": "I can't believe he's gone. Please find who did this!",
+    "isSuspect":  "false",
+    "iconPath": "data/icons/characters/wife.png"
+  },
+  {
+    "name": "Sergeant",
+    "description": "The police sergeant in charge of the case and your training.",
+    "currentLocation": "Backyard",
+    "jsonInventory": [],
+    "clue": "The murder happened last night. I think the culprit is obvious, but I want to see your investigative chops. It should be an easy first case for you.",
+    "isSuspect":  "false",
+    "isSergeant": "true",
+    "iconPath": "data/icons/characters/sergeant.png"
+  }
+]
